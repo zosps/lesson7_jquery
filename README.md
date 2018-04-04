@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 4 2018
 
 ### Student Name:  
-(First and Last Name)
+Zoe Patrick
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, the application wil display the recipe's ingredients and instructions when the user clicks on the headers.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://zosps.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. how to accecss elements using jQuery syntax
+2. familiarized with built in jQuery syntax
+3. how to use jQuery in order to use minimal code
 
